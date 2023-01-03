@@ -1,2 +1,2 @@
 # goit-markup-hw-04
-decorative effects/vector graphics
+https://tataua.github.io/goit-markup-hw-04/
